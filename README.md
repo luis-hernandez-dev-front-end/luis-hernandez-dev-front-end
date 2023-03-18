@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Luis Alberto</h1>
-<h3 align="center">Soy desarrollador Front-Endm mexicano, estoy en proceso de mejorar mis habilidades como desarrollador.</h3>
+<h3 align="center">Soy desarrollador Front-End mexicano, estoy en proceso de mejorar mis habilidades como desarrollador.</h3>
 
 -Actualmente estoy realizando prácticas profesionales en el Centro Universitario del Norte.
 
